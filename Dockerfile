@@ -1,5 +1,5 @@
 # Use the official Ruby runtime as the parent image
-FROM ruby:2.7.5
+FROM ruby:2.7.7
 
 WORKDIR /gem
 COPY . /gem
